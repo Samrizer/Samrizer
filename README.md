@@ -13,10 +13,14 @@ Email Me 👉 ✉️ **bijoybaishnab42@gmail.com** For Collaboration/Project or 
 - ⚡ **Fun fact:** I'm a Full Stack Developer working with real clients and a Science Teacher - I love turning ideas into reality! 💻🚀
 
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Samrizer&show_icons=true)
+## 🏆 GitHub Highlights
+![](https://img.shields.io/badge/Role-Full%20Stack%20Web%20Developer-success?style=flat-square)
+![](https://img.shields.io/badge/Current%20Project-Client%20E--Commerce%20Website-blue?style=flat-square)
+![](https://img.shields.io/badge/Frontend-React.js%20%7C%20Tailwind%20CSS-61DAFB?style=flat-square)
+![](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express.js%20%7C%20MongoDB-339933?style=flat-square)
+![](https://img.shields.io/badge/Also-UI%2FUX%20Designer%20%26%20Science%20Teacher-purple?style=flat-square)
+![](https://img.shields.io/badge/Experience-5%2B%20Full%20Stack%20Projects-orange?style=flat-square)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samrizer)
 
 
 
