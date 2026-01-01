@@ -13,18 +13,23 @@ Email Me 👉 ✉️ **bijoybaishnab42@gmail.com** For Collaboration/Project or 
 - ⚡ **Fun fact:** I'm a Full Stack Developer working with real clients and a Science Teacher - I love turning ideas into reality! 💻🚀
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samrizer&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Samrizer&show_icons=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samrizer)
+
 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/1926_adbaishna) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bijoy.krishna.9803) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditta-baishnab-b-70b087304) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bijoybaishnab42) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bijoybaishnab42@gmail.com)  
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game Repo View --> 
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 
 # 💻 Tech Stack:
